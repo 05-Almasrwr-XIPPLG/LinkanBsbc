@@ -94,3 +94,43 @@ body {
 .footer p{
     font-weight: 400;
 }
+
+.brosur{
+    margin-top: 40px;
+}
+
+.brosur .judul{
+    font-size: 25px;
+}
+
+.brosur .one{
+    margin-top: 80px;
+}
+
+.brosur .one img{
+    width: 470px;
+}
+
+.brosur .one .hh{
+    position: relative;
+}
+
+.brosur .one .title-br{
+    position: absolute;
+    top: -130px;
+    font-size: 80px;
+    left: 20%;
+    text-shadow: 0 0 18px red;
+    filter: blur(2px);
+    z-index: -99;
+}
+
+.brosur .one .title-r{
+    position: absolute;
+    top: -130px;
+    font-size: 80px;
+    left: 40%;
+    text-shadow: 0 0 18px red;
+    filter: blur(2px);
+    z-index: -99;
+}
